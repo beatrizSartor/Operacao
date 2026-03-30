@@ -10,3 +10,10 @@ alert(`A adição de ${numUm} e ${numDois} é igual a ${adicao}`);
 let divisao = numUm/numDois;
 alert(`O resultado da Divisão é ${divisao}`);
 
+
+let multiplicacao = numUm * numDois;
+
+
+alert(`O resultado da multiplicação é ${multiplicacao}`);
+
+

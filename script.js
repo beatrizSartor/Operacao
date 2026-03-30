@@ -1,7 +1,8 @@
-   let numUm = Number(prompt("Escreva o primeiro número:"));
-   let numDois = Number(prompt("Escreva o segundo número:"));
-   
-   let Multiplicacao = numUm * numDois;
+let numUm = Number(prompt("Escreva o primeiro número:"));
+let numDois = Number(prompt("Escreva o segundo número:"));
 
-   
-   alert(`O resultado da multiplicação é ${Multiplicacao}`);
+let multiplicacao = numUm * numDois;
+
+
+alert(`O resultado da multiplicação é ${multiplicacao}`);
+
